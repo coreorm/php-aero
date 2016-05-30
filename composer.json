@@ -1,0 +1,12 @@
+{
+    "name": "root/php-aero",
+    "description": "Super light weight RESTful framework",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Li, Bruce",
+            "email": "coreorm@gmail.com"
+        }
+    ],
+    "require": {}
+}
